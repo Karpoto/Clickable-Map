@@ -1,0 +1,5 @@
+name: Clickable Map
+type: module
+description: 'Displays a Clickable map as content or menu'
+version: 0.0.1
+core: 8.x
